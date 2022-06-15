@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/personal/static/css/main.87b85775.css",
+    "main.js": "/personal/static/js/main.45a38d70.js",
+    "static/media/HelveticaNowText-Medium.otf": "/personal/static/media/HelveticaNowText-Medium.0450be8c80b704b57e6c.otf",
+    "static/media/HelveticaNowText-Light.otf": "/personal/static/media/HelveticaNowText-Light.db99f6b8a6887e19297b.otf",
+    "static/media/HelveticaNowText-Regular.otf": "/personal/static/media/HelveticaNowText-Regular.3561cdb01d0cfb3cf0f9.otf",
+    "static/media/EditorialNew-Regular.otf": "/personal/static/media/EditorialNew-Regular.2a0f6537cf101cd5965a.otf",
+    "static/media/EditorialNew-Thin.otf": "/personal/static/media/EditorialNew-Thin.c419946878f4746207ca.otf",
+    "static/media/circa.png": "/personal/static/media/circa.9ff13bce74e2778f5376.png",
+    "index.html": "/personal/index.html",
+    "main.87b85775.css.map": "/personal/static/css/main.87b85775.css.map",
+    "main.45a38d70.js.map": "/personal/static/js/main.45a38d70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87b85775.css",
+    "static/js/main.45a38d70.js"
+  ]
+}
