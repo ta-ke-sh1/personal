@@ -1,0 +1,57 @@
+@media only screen and (max-width: 600px) {
+    .banner {
+        background-color: coral;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .banner {
+        background-color: white;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .banner {
+        background-color: white;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .banner {
+        background-color: white;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .banner {
+        background-color: white;
+    }
+}
+
+.banner {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    z-index: -1;
+    margin-bottom: 100px;
+
+    .intro-paragraph {
+        margin-top: 110px;
+        width: 800px;
+        padding: 0px 40px;
+        font-family: HelveticaRegular;
+        font-size: 64px;
+        line-height: 1.1;
+    }
+
+    .highlight {
+        color: crimson;
+        transform: scaleY(0.5);
+    }
+}
